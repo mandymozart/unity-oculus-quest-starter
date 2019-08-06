@@ -1,0 +1,8 @@
+com.Autotomia.QuestBoilerPlate
+mipmap app_icon
+mipmap app_icon_round
+string app_name
+string lib_name
+style BaseUnityTheme
+style UnityThemeSelector
+style UnityThemeSelector_Translucent

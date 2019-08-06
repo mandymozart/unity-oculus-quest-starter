@@ -1,0 +1,4 @@
+#Tue Aug 06 22:26:48 CEST 2019
+base.0=/Users/tip/boilerplate-vr-autotomia/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
